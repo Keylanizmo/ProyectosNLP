@@ -2,10 +2,10 @@
 
 📌 Hola! Soy Keylan Valencia, Ingeniero Industrial Especialista en Analítica estratégica de Datos!  👨‍💻 En proceso de grado! 🙌
 
-Durante mi vida profesional he trabajado con herramientas estadísticas para la medición y control de los procesos de negocio de las organizaciones en diferentes sectores económicos, he hecho valiosos aportes a las áreas estratégicas de las compañías gracias a aprovechar el 100% el poder del **Dato**
+Durante mi vida profesional he trabajado con herramientas estadísticas para la medición y control de los procesos de negocio de las organizaciones en diferentes sectores económicos, he hecho valiosos aportes a las áreas estratégicas de las compañías gracias al aprovechamiento  del poder del **Dato** 🗻
 
 
-A continuación quiero compatir algunos de los proyectos trabajados en una de los campos de acción en  la Ciencia de Datos que es el Procesamiento de Lenguaje Natural:
+A continuación quiero compatir algunos de los proyectos trabajados en una de los campos de acción en  la Ciencia de Datos 🤓 que es el Procesamiento de Lenguaje Natural: 
 
 
 1. [Adquirir textos de diferentes fuentes](https://github.com/Keylanizmo/NLP/blob/b6f4eea84d24c88d8bae06bc63b66fa2c8d3168b/Taller2%20.ipynb)
@@ -35,5 +35,5 @@ A continuación quiero compatir algunos de los proyectos trabajados en una de lo
 9. [Herramienta de Análisis de Sentimiento, Parte 2](https://github.com/Keylanizmo/NLP/blob/b6f4eea84d24c88d8bae06bc63b66fa2c8d3168b/Taller_12%20Keylan%20Valencia%20NLP.ipynb)
 
 
-Mi perfil en LinkedIn [Ing. Keylan Valencia](https://www.linkedin.com/in/keylan-rolando-valencia-castillo-a23621104/)
+Mi perfil en LinkedIn [Ing. Keylan Valencia](https://www.linkedin.com/in/keylan-rolando-valencia-castillo-a23621104/) 🎈�
 
